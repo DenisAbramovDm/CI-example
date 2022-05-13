@@ -13,4 +13,6 @@ public class App {
     public static int multiplication(int a){
         return a * 10;
     }
+
+
 }
