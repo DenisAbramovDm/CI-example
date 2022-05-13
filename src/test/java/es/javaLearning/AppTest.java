@@ -6,6 +6,6 @@ import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 class AppTest {
     @Test
     void multiplicationTest(){
-        assertThat(App.multiplication(5)).isEqualTo(500);
+        assertThat(App.multiplication(5)).isEqualTo(50);
     }
 }
